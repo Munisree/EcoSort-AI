@@ -1,0 +1,86 @@
+[
+  {
+    "category": "battery",
+    "short_description": "Used dry-cell, button-cell, lithium, lead-acid, or rechargeable batteries from household electronics, vehicles, or portable devices.",
+    "disposal_guidance": "Batteries must NOT be placed in ordinary household dustbins or mixed municipal solid waste. They contain harmful substances including heavy metals (such as lead, cadmium, and mercury) and reactive materials (such as lithium) that can leach into soil and water. Drop used batteries at an authorised battery collection point, electronics retailer take-back programme, or a registered e-waste/battery recycler. In India, the Battery Waste Management Rules 2022 require producers and dealers to provide collection facilities — check with your local dealer or municipal body for the nearest drop-off point.",
+    "safety_note": "Never crush, puncture, burn, or short-circuit a battery. Damaged lithium batteries can overheat or catch fire. Store damaged batteries in a cool, dry place in a non-flammable container until they can be safely handed over to an authorised recycler. Keep out of reach of children.",
+    "recycling_or_reuse_tip": "Rechargeable batteries (NiMH, Li-ion) can be recharged hundreds of times before disposal — use rechargeable types wherever possible to reduce waste volume. When replacing vehicle batteries, most dealers accept the old battery for recycling under exchange programmes."
+  },
+  {
+    "category": "biological",
+    "short_description": "Organic or food waste such as vegetable peels, fruit scraps, cooked food, garden trimmings, and other biodegradable material.",
+    "disposal_guidance": "Segregate biological/organic waste into the designated wet-waste (green) bin as required under the Solid Waste Management Rules 2016 in India. Do not mix with dry recyclables or hazardous waste. Hand over to municipal wet-waste collectors on their scheduled days.",
+    "safety_note": "Decomposing organic waste can harbour pathogens and attract pests. Store in a covered bin, drain excess liquids, and hand over promptly. Do not leave organic waste in open bags for extended periods.",
+    "recycling_or_reuse_tip": "Home composting is the most effective way to recycle organic waste. Kitchen scraps and garden waste can be composted in a pot, bucket, or dedicated compost bin to produce nutrient-rich manure for plants. Vermicomposting (using earthworms) is suitable even for small urban households."
+  },
+  {
+    "category": "brown-glass",
+    "short_description": "Brown or amber glass items such as beer bottles, medicine bottles, and sauce jars.",
+    "disposal_guidance": "Rinse the item to remove food or liquid residue. Place in the dry-waste (blue) recycling bin if your local municipal body collects glass, or hand over to a local kabadiwala (scrap dealer) who accepts glass. Check with your municipal corporation whether glass is accepted in your kerbside collection — rules vary by city.",
+    "safety_note": "Handle broken glass with thick gloves. Wrap broken pieces in newspaper or place in a puncture-resistant container before disposal to prevent injury to waste handlers.",
+    "recycling_or_reuse_tip": "Intact glass bottles can often be reused at home for storing dry goods, water, or homemade preserves. Glass is 100% recyclable and can be melted and reused indefinitely without loss of quality — clean bottles handed to a scrap dealer are very likely to re-enter the recycling chain."
+  },
+  {
+    "category": "cardboard",
+    "short_description": "Cardboard boxes, packaging cartons, corrugated sheets, cereal boxes, and similar paper-board items.",
+    "disposal_guidance": "Flatten boxes to reduce volume. Remove plastic tape, staples, and foam inserts if possible. Place in the dry-waste (blue) bin or hand over to a kabadiwala. Keep cardboard dry — wet cardboard is harder to recycle and may be rejected.",
+    "safety_note": "Cardboard soiled with food grease (e.g. pizza boxes) may not be accepted by all recyclers. Remove or tear off heavily soiled sections and dispose of those as general waste; the clean portions can still be recycled.",
+    "recycling_or_reuse_tip": "Cardboard can be reused as packaging material, craft material, or seedling trays for small plants. Shredded cardboard also works as a carbon-rich layer in compost heaps."
+  },
+  {
+    "category": "clothes",
+    "short_description": "Worn, torn, or unwanted clothing, fabric, textiles, shoes (fabric portions), curtains, and similar textile items.",
+    "disposal_guidance": "Do not place usable clothing in waste bins. Donate wearable items to NGOs, temples, community donation drives, or platforms such as Goonj in India. For worn-out textiles that cannot be donated, some municipal bodies and NGOs collect old cloth for conversion into rags or industrial wipes — check local availability. Avoid mixing textiles with wet waste.",
+    "safety_note": "Clothing soiled with chemicals or biohazardous materials should be treated as hazardous waste and not donated. Inform the collecting body if items are heavily contaminated.",
+    "recycling_or_reuse_tip": "Old cotton clothes make excellent cleaning rags, reducing the need for disposable wipes. Fabric scraps can be used in quilting, handicrafts, or stuffing. Many clothing brands in India now run take-back programmes for old garments — check before discarding."
+  },
+  {
+    "category": "green-glass",
+    "short_description": "Green glass items such as wine bottles, cold-drink bottles, and green glass jars.",
+    "disposal_guidance": "Rinse thoroughly. Place in the dry-waste (blue) recycling bin or hand over to a kabadiwala who accepts glass. Verify with your local municipal body whether glass is collected separately in your area, as collection infrastructure for glass varies across Indian cities.",
+    "safety_note": "Wrap broken or chipped green glass in newspaper before placing in the bin to prevent cuts to waste handlers. Do not place loose glass shards in thin plastic bags.",
+    "recycling_or_reuse_tip": "Green glass bottles are widely reused in the informal economy in India. Intact bottles with closures can be returned to retailers under deposit schemes where available, or reused at home for storing liquids and dry goods."
+  },
+  {
+    "category": "metal",
+    "short_description": "Metal cans (steel, aluminium), tins, scrap metal parts, aluminium foil, and similar metal items.",
+    "disposal_guidance": "Rinse food cans to remove residue. Place in the dry-waste (blue) recycling bin or hand over to a kabadiwala — metals are among the most actively traded materials in India's informal recycling sector. Scrap metal dealers (raddi shops) accept steel, copper, aluminium, and brass by weight.",
+    "safety_note": "Sharp edges on cut cans can cause injury. Crush or fold can edges inward if possible. Aerosol cans should be fully emptied before disposal and must not be punctured or incinerated.",
+    "recycling_or_reuse_tip": "Aluminium is infinitely recyclable with very high energy savings compared to primary production. Small aluminium cans handed to a scrap dealer are very likely to be recycled. Tin cans can be reused as planters or organisers before eventual recycling."
+  },
+  {
+    "category": "paper",
+    "short_description": "Newspapers, magazines, office paper, books, paper bags, and other dry paper products.",
+    "disposal_guidance": "Keep paper dry and separate from wet waste. Bundle or bag loose paper and place in the dry-waste (blue) bin or hand over to a kabadiwala or raddi shop. Most local scrap dealers in India actively purchase paper by weight.",
+    "safety_note": "Paper that is heavily contaminated with food, oil, paint, or chemicals should be placed in general waste rather than the recycling stream, as contaminated paper reduces the quality of recycled pulp.",
+    "recycling_or_reuse_tip": "Scrap paper can be reused for note-taking, packing fragile items, or making origami before recycling. Shredded paper is also useful as a compost additive (carbon layer). Choosing recycled-content paper products reduces demand for virgin paper."
+  },
+  {
+    "category": "plastic",
+    "short_description": "Plastic bottles, containers, bags, packaging, and other plastic items.",
+    "disposal_guidance": "Rinse plastic containers to remove food residue. Check for a resin identification code (the triangle number on the base): codes 1 (PET) and 2 (HDPE) are most widely accepted for recycling in India. Place clean, dry plastic in the dry-waste (blue) bin or hand over to a kabadiwala. Thin single-use plastic bags (below 75 microns) are banned in many Indian states — avoid purchasing them and do not mix them with recyclable plastics. Note that not all plastics are recyclable in all localities.",
+    "safety_note": "Do not burn plastic waste — burning plastic releases toxic fumes including dioxins. Some plastic types (e.g. PVC, polystyrene) have limited recycling infrastructure in India; check local availability before assuming recyclability.",
+    "recycling_or_reuse_tip": "Carry a reusable cloth bag to reduce plastic bag consumption. Use a reusable bottle designed for repeated use (such as stainless steel or BPA-free hard plastic) instead of repurposing single-use PET bottles, which are not designed for prolonged or repeated use. Many rigid plastic containers can be repurposed for storage before eventual disposal."
+  },
+  {
+    "category": "shoes",
+    "short_description": "Old, worn, or unwanted footwear including leather shoes, rubber chappals, canvas shoes, and sports shoes.",
+    "disposal_guidance": "Donate wearable shoes to NGOs, temples, orphanages, or community drives. Platforms such as Goonj and SoleSaathi in India collect old footwear for redistribution. Shoes that are too worn to donate can be handed to cobblers who sometimes repurpose leather or rubber, or placed in dry-waste bins. Do not mix footwear with wet waste.",
+    "safety_note": "Shoes with metal components, solvents, or chemical treatments should not be placed in compost. Inform donation centres if shoes are heavily contaminated.",
+    "recycling_or_reuse_tip": "Rubber soles and leather uppers can sometimes be repaired and extended in life by a cobbler, avoiding disposal entirely. Some athletic footwear brands globally run sole-recycling programmes — check brand websites for India-specific take-back options."
+  },
+  {
+    "category": "trash",
+    "short_description": "Residual or mixed waste that does not clearly belong to any specific recyclable or compostable category, including multi-layer packaging, contaminated items, and non-recyclable packaging.",
+    "disposal_guidance": "Place in the general waste (black or grey) bin for municipal collection as residual solid waste. Before discarding, check whether any component can be separated for recycling (e.g. peel off a plastic label from a glass jar). Reduce generation of residual waste by preferring products with minimal or recyclable packaging.",
+    "safety_note": "Do not place chemical waste, medicines, or batteries in the general waste bin. Those require separate disposal channels. If an item's material composition is unclear, err on the side of general waste rather than contaminating the recycling stream.",
+    "recycling_or_reuse_tip": "The best strategy for residual waste is prevention: choose products with less packaging, buy in bulk, and prefer durable goods over single-use items. Some multi-layer packaging (e.g. Tetra Paks) has specialist recycling routes — check with your municipal body."
+  },
+  {
+    "category": "white-glass",
+    "short_description": "Clear or white (flint) glass items such as water bottles, food jars, drinking glasses, and clear glass containers.",
+    "disposal_guidance": "Rinse the item. Place in the dry-waste (blue) bin or hand over to a kabadiwala. Clear glass is generally the most valuable glass type for recyclers because it can be used to produce glass of any colour. Confirm with your local municipal body whether glass is separately collected in your area.",
+    "safety_note": "Handle broken clear glass carefully — it is harder to see on surfaces. Use thick gloves and wrap in newspaper or place in a rigid container before disposal. Do not place loose broken glass directly into thin plastic waste bags.",
+    "recycling_or_reuse_tip": "Clear glass jars and bottles are highly reusable at home for food storage, spice organisation, or homemade preserves. Glass is one of the most recyclable materials: it can be recycled repeatedly without degradation in quality."
+  }
+]
